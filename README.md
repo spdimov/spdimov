@@ -60,7 +60,7 @@
 | February 2025 | Gamma Liquidity Management    |                     | CodeHawks |  $22648  |    🥇     |
 | March 2025    | Liquity V2                    |                     | Cantina   |  $27792  |   🥇/🥈   |
 | April 2025    | Aegis                         |                     | Sherlock  |  $6977   |    🥇     |
-| June 2025     | Symbiotic Relay               |                     | Sherlock  |  $2659   |    №7     |
+| June 2025     | Symbiotic Relay               |                     | Sherlock  |  $2659   |    #7     |
 | September 2025| Super DCA                     |                     | Sherlock  |  OP 9900 |    🥇     |
 | December 2025 | Mento V3                      |                     | Cantina   |  $24043  |    🥇     |
 | April 2026    | Superfluid Clear Macro        |                     | Sherlock  |  $5232   |    🥇     |
