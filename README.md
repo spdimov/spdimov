@@ -43,6 +43,13 @@
 | Summer.fi                   | Automated yield vaults, Asynchronous vaults, RWA            | Sherlock   | Apr 2026   |
 | Lista DAO                   | Liquid staking                                              | Sherlock   | May 2026   |
 | Enhanced                    | Opyn fork, options infrastructure                           | Sherlock   | May 2026   |
+| Re                          | Oracle                                                      | Sherlock   | July 2026  |
+| HelloTrade Update           | Perps                                                       | Sherlock   | July 2026  |
+| Moonwell                    | Staking, Yield Strategies, Concentrated Liquidity Management| Sherlock   | July 2026  |
+| Zephyr Bridge               | ERC20 Token                                                 | Sherlock   | July 2026  |
+| Monetari                    | RWA (Gold staking)                                          | Sherlock   | Aug 2026   |
+| Usual Update                | USD0 (DistributionModule + Banded Oracle changes)           | Sherlock   | Aug 2026   |
+
 
 
 
